@@ -11,7 +11,6 @@ var body = '';
          //$.session.getInvocationCount() - Returns the number of requests sent to the current session
          "deliveryOnTime": 24,
         
-         //$.session.hasSystemPrivilege(privilegeName) - Checks whether the logged-on user has a specified system privilege
          "delayed": 8,
         
         
