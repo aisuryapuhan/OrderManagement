@@ -1,0 +1,4 @@
+service namespace "XS_ProjectSalesOrder.XSOData"
+{
+"PEPSI_POC"."ADMIN_ROLE_ACCESS" as "RoleDetails";
+}
